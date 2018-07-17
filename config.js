@@ -1,5 +1,5 @@
 const CONF = {
-  port: 3000,
+  port: 8000,
 }
 
 module.exports = CONF;
